@@ -34,8 +34,9 @@
   padding: 5%;
   font-size: 2rem;
 }
+
 .testimonial {
-  width: 500px;
+  
   min-height: 300px;
   padding: 20px;
   margin: 20px;
@@ -45,6 +46,7 @@
   transition: transform 0.3s ease;
   display: inline-block;
   color: #000000;
+  overflow: hidden;
 }
 
 * {
